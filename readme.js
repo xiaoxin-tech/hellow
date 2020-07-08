@@ -1,11 +1,10 @@
-console.log("test"
+console.log("test")
+sdd
+sdsd
 dfsdfs
 sdfsd
 sdf
-	sada
-	asda
-	asd
-	asdasdas)
-sdd
-sdsd
-
+sada
+asda
+asd
+asdasdas
